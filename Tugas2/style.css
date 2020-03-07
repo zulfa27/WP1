@@ -1,0 +1,32 @@
+body { 
+    background: url('inpopest.JPG');
+    background-size: cover;
+    color: #242136;
+}
+p {
+    color: black;
+    font-weight: bold;
+}
+iframe{
+    height: 200px;
+    width: 300PX;
+}
+.contoh-link,
+.contoh-link:link,
+.contoh-link:active,
+.contoh-link:visited{
+	font-size: 20pt;
+	background: #1ABC9C;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	font-family: sans-serif;	
+}
+ 
+.contoh-link:hover{
+	background: #16A085;
+}
+#YTB {
+    color: black;
+    font-weight: bold;
+}
